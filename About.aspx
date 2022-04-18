@@ -3,7 +3,7 @@
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
     <h2><%: Title %></h2>
     <h3>Sistema Web</h3>
-    <p>Desarrollado por el equipo TECHUCH - Derechos Reservados &copy;</p>
+    <p>Desarrollado Joel Leyva Meza - Derechos Reservados &copy;</p>
     <p>Programador: Joel Leyva Meza</p>
     <p>Analista de Sistemas: Joel Leyva Meza</p>
     <p>Analista de Negocio: Joel Leyva Meza</p>
